@@ -1,0 +1,3 @@
+**/wwwroot/**/* linguist-vendored
+**/npm/**/* linguist-vendored
+**/demo/**/* linguist-vendored
